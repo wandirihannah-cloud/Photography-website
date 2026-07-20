@@ -7,13 +7,13 @@ About me section
 Gallery
 Contact section
 
-## Technologies used
+ ## Technologies used
 HTML
 CSS
 
   ## Project structure 
 index.html
-style.cs
+style.css
 images
 README.MD
 
