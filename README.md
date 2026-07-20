@@ -1,0 +1,3 @@
+## Photography Website
+Welcome to  my photography website! This is built with html and css and it showcases my photography and introduces me as a photographer
+
