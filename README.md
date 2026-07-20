@@ -20,7 +20,7 @@ README.MD
 ## Licence
 MIT licence
 
- ## Author
+  ## Author
 Hannah Wandiri
 
-Thankyou for viewing.
+ Thankyou for viewing
