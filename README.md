@@ -11,10 +11,13 @@ Contact section
 HTML
 CSS
 
-## Project structure
+  ## Project structure 
 index.html
 style.css
 images
 README.MD
 
- 
+ ## Author
+Hannah Wandiri
+
+Thankyou for viewing.
