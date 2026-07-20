@@ -13,11 +13,12 @@ CSS
 
   ## Project structure 
 index.html
-style.css
+style.cs
 images
 README.MD
 
 ## Licence
+MIT licence
 
  ## Author
 Hannah Wandiri
