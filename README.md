@@ -2,7 +2,7 @@
 Welcome to  my photography website! This is built with html and css and it showcases my photography and introduces me as a photographer
 
  ## Features
-Home page
+ Home page
 About me section
 Gallery
 Contact section
