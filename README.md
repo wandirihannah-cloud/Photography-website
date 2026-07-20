@@ -17,6 +17,8 @@ style.css
 images
 README.MD
 
+## Licence
+
  ## Author
 Hannah Wandiri
 
